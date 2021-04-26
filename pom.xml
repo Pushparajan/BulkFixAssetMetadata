@@ -22,7 +22,7 @@
 	</build>
 
 	<properties>
-		<commons-io.version>2.5</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<slf4j-api.version>1.7.25</slf4j-api.version>
 		<apache.fop.version>1.0</apache.fop.version>
 		<commons-email.version>1.5</commons-email.version>
