@@ -27,7 +27,7 @@
 		<apache.fop.version>1.0</apache.fop.version>
 		<commons-email.version>1.5</commons-email.version>
 		<commons-math.version>2.2</commons-math.version>
-		<apache.poi.version>3.16</apache.poi.version>
+		<apache.poi.version>4.1.1</apache.poi.version>
 		<apache.ooxml-schemas.version>1.3</apache.ooxml-schemas.version>
 		<httpcore.version>4.4.8</httpcore.version>
 		<httpclient.version>4.5.4</httpclient.version>
